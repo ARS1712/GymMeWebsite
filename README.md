@@ -4,17 +4,16 @@ While the GymMe application primarily uses C#, the aspnet_client folder is essen
 
 ADMIN
 =====
-username: admin
+username: admin <br/>
 password: Admin123
 
-username: admin2
+username: admin2 <br/>
 password: Admin123
-
 
 USER
 ====
-username: alves
+username: alves <br/>
 password: Alves123
 
-username: divawali
+username: divawali <br/>
 password: Divawali123
